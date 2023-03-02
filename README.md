@@ -1,5 +1,8 @@
 # Digit-Recognition-Neural-Network
 
+dataset of this project is called MNIST which can be downloaded from the following link:
+http://yann.lecun.com/exdb/mnist/
+
 implementation of neural network using formulas:
 
 ![image](https://user-images.githubusercontent.com/123382738/222490294-42d53dc5-286d-4d86-aa21-7fb51039bc0d.png)
